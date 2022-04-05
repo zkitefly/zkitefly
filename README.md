@@ -4,7 +4,7 @@
 
 目前喜欢的仓库
 
-huagnhongxun / HMCL | 944390394 / cato-mengyou | LTCatt / PCL2帮助 | zkitfly / hmclw | 
+huagnhongxun / HMCL | 944390394 / cato-mengyou | LTCatt/PCL2Help  | zkitfly / hmclw | 
 
 wifi-left / HMCL-docs-website | zkitfly / hmclw | zkitfly / hmcl-d | ……
 
