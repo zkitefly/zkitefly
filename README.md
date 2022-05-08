@@ -26,3 +26,41 @@ Bilibili ：
 <iframe src="//player.bilibili.com/blackboard/newplayer.html?&bvid=BV1hu411C7BZ&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 4.
 <iframe src="https://player.bilibili.com/blackboard/newplayer.html?&amp;bvid=BV1hu411C7BZ&amp;cid=588828522&amp;wmode=transparent&amp;as_wide=1&amp;crossDomain=1&amp;lite=0&amp;danmaku=0"> </iframe>
+
+5.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <title>Main Page</title>
+</head>
+<body>
+     <span>This is main page.</span>
+     <iframe frameborder="0"
+             noresize="noresize"
+             style="position: absolute; background: transparent; width: 100%; height:100%;"
+             src="https://www.baidu.com/"
+             frameborder="0">
+     </iframe>
+
+</body>
+</html>
+
+6.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <title>Main Page</title>
+</head>
+<body>
+     <span>This is main page.</span>
+     <iframe frameborder="0"
+             noresize="noresize"
+             style="position: absolute; background: transparent; width: 100%; height:100%;"
+             src="https://player.bilibili.com/blackboard/newplayer.html?&bvid=BV1hu411C7BZ&cid=588828522&wmode=transparent&as_wide=1&crossDomain=1&lite=0&danmaku=0"
+             frameborder="0">
+     </iframe>
+
+</body>
+</html>
