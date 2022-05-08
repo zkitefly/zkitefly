@@ -17,3 +17,5 @@ Bilibili ：
 
 ![](https://github-readme-stats.vercel.app/api?username=zkitefly&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=zkitefly&exclude_repo=blog,scl&hide=c&layout=compact)
+
+<iframe src="//player.bilibili.com/blackboard/newplayer.html?&bvid=BV1hu411C7BZ&danmaku=1"</iframe>
