@@ -25,4 +25,4 @@ Bilibili ：
 3.
 <iframe src="//player.bilibili.com/blackboard/newplayer.html?&bvid=BV1hu411C7BZ&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 4.
-<iframe data-v-a27792ee="" src="//player.bilibili.com/blackboard/newplayer.html?&amp;bvid=BV1hu411C7BZ&amp;cid=588828522&amp;wmode=transparent&amp;as_wide=1&amp;crossDomain=1&amp;lite=0&amp;danmaku=0" scrolling="no" board="0" framespacing="0" class="bilibiliHtml5Player" frameborder="no"></iframe>
+<iframe src="https://player.bilibili.com/blackboard/newplayer.html?&amp;bvid=BV1hu411C7BZ&amp;cid=588828522&amp;wmode=transparent&amp;as_wide=1&amp;crossDomain=1&amp;lite=0&amp;danmaku=0"> </iframe>
