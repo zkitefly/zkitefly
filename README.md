@@ -4,6 +4,10 @@
 
 俺就是一个小辣鸡罢了……
 
+有兴趣访问一下我的主页吗（虽然没啥东西）
+
+[https://zkitefly.github.io](https://zkitefly.github.io/)
+
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/zkitefly&count_bg=%23008080&title_bg=%23008080&icon=&icon_color=%23008080&title=zkitefly&edge_flat=false)
 
 <!--目前喜欢的仓库-->
