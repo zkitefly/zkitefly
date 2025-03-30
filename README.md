@@ -8,7 +8,7 @@
 
 [https://zkitefly.github.io](https://zkitefly.github.io/)
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/zkitefly&count_bg=%23008080&title_bg=%23008080&icon=&icon_color=%23008080&title=zkitefly&edge_flat=false)
+![](https://hits.zkitefly.eu.org/?tag=https%3A%2F%2Fgithub.com/zkitefly)
 
 <!--目前喜欢的仓库-->
 
