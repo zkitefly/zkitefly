@@ -22,5 +22,5 @@
 <!--![](https://cdn.jsdelivr.net/gh/zkitefly/myphoto@main/2022/202204051448507.png)-->
 
 ![](https://github-readme-stats.vercel.app/api?username=zkitefly&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=zkitefly&exclude_repo=blog,scl&hide=c&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs?username=zkitefly&exclude_repo=blog,scl&hide=c&layout=compact)-->
 
